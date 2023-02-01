@@ -2,7 +2,7 @@ devs.push({
 
     firstName : 'Ric Johannson',
     middleName: 'Casido',
-    lastName  : 'Onate',
+    lastName  : 'Oñate',
     gender    : 'Male',
     username  : 'ricjohannson'
 
